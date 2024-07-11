@@ -139,13 +139,16 @@ form .email-field input{
   /* outline: none; */
   font-size: 16px;
 }
+form .email-field input::placeholder{
+  color: #fff;
+}
 form .email-field button{
   height: 100%;
   width: 200px;
   outline: none;
   border: none;
   background: rgba(226,220,46,255);
-  color: #fff;
+  color: #ffffff;
   border-radius: 4px;
   font-size: 20px;
   cursor: pointer;
