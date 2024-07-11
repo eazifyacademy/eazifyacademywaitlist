@@ -118,7 +118,7 @@ body::before{
 }
 .wrapper form{
   border: 0.5px solid #fff;
-  height: 60vh;
+  height: 30vh;
   margin-top: 5vh;
   margin: 50px 0;
 }
@@ -158,10 +158,10 @@ form .email-field button{
 form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
-.visit a{
+.visit{
   border: 1px solid #fff;
   color: #fff;
-  margin-top: 55vh;
+/*   margin-top: 55vh; */
 }
 .wrapper .count-down{
   display: flex;
