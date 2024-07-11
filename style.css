@@ -201,8 +201,8 @@ a{
 @media (max-width: 630px) {
   .visit{
     border: 1px solid #fff;
-    height: 5vh;
-    margin-top: 10vh;
+    height: 8vh;
+    margin-top: 5vh;
   }
   form .email-field input{
     width: 100%;
