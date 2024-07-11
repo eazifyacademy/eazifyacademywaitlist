@@ -158,12 +158,10 @@ form .email-field button{
 form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
-.visit{
-  color: #fff;
- 
-}
 .visit a{
-   margin-top: 55vh;
+  border: 1px solid #fff;
+  color: #fff;
+  margin-top: 55vh;
 }
 .wrapper .count-down{
   display: flex;
