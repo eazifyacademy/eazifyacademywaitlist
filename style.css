@@ -199,10 +199,10 @@ a{
 }
 @media (max-width: 630px) {
   .visit{
-/*   border: 1px solid #fff; */
+  border: 1px solid #fff;
   height: 5vh;
   margin-top: 7vh;
-}
+  }
   form .email-field input{
     width: 100%;
   }
