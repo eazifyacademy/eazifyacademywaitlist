@@ -161,7 +161,7 @@ form .email-field button:hover{
 }
 .visit{
   padding-top: 1rem;
-  height: 8vh;
+  height: 5vh;
   margin-top: 10vh;
 }
 a{
@@ -201,7 +201,7 @@ a{
 @media (max-width: 630px) {
   .visit{
 /*     border: 1px solid #fff; */
-    height: 8vh;
+    height: 5vh;
     padding-bottom: 4rem;
     margin-top: 7vh;
   }
