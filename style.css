@@ -34,6 +34,7 @@ body{
   background-blend-mode: darken;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 body::before{
   content: "";
