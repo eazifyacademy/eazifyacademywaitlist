@@ -158,7 +158,7 @@ form .email-field button{
 form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
-.visit{
+.visit, a{
 /*   border: 1px solid #fff; */
   color: #fff;
   margin-top: 2vh;
