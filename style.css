@@ -169,7 +169,7 @@ a{
 }
 
 .wrapper .count-down{
-/*   border: 1px solid #fff; */
+  border: 1px solid #fff;
   display: flex;
   margin-top: 5vh;
   width: 100%;
