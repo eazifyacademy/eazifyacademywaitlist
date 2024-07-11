@@ -160,8 +160,8 @@ form .email-field button:hover{
 }
 .visit{
 /*   border: 1px solid #fff; */
-  height: 15vh;
-  margin-top: 2vh;
+  height: 10vh;
+  margin-top: 5vh;
 }
 a{
   color: #fff;
@@ -199,9 +199,9 @@ a{
 }
 @media (max-width: 630px) {
   .visit{
-  border: 1px solid #fff;
-  height: 5vh;
-  margin-top: 10vh;
+    border: 1px solid #fff;
+    height: 5vh;
+    margin-top: 10vh;
   }
   form .email-field input{
     width: 100%;
