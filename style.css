@@ -159,6 +159,7 @@ form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
 .visit{
+  padding-top: 5rem;
   border: 1px solid #fff;
   height: 15vh;
   margin-top: 15vh;
