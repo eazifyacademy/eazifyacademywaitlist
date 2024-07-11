@@ -159,7 +159,7 @@ form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
 .visit{
-/*   border: 1px solid #fff; */
+  border: 1px solid #fff;
   height: 15vh;
   margin-top: 10vh;
 }
