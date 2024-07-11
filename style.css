@@ -219,7 +219,7 @@ a{
     height: 80px;
   }
   .wrapper .count-down .timer{
-    width: 80px;
+    width: 50px;
   }
   .count-down .timer .numb{
     font-size: 20px;
