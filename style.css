@@ -144,7 +144,7 @@ form .email-field input::placeholder{
   color: #fff;
 }
 form .email-field button{
-  height: 50%;
+  height: 80%;
   width: 200px;
   outline: none;
   border: none;
