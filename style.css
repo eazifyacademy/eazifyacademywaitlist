@@ -202,6 +202,7 @@ a{
   .visit{
     border: 1px solid #fff;
     height: 8vh;
+    padding-bottom: 1rem;
     margin-top: 5vh;
   }
   form .email-field input{
