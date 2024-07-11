@@ -118,7 +118,7 @@ body::before{
 }
 .wrapper form{
   border: 0.5px solid #fff;
-  height: 5vh;
+  height: 60vh;
   margin-top: 5vh;
   margin: 50px 0;
 }
