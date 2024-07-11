@@ -159,7 +159,10 @@ form .email-field button:hover{
 }
 .visit{
   color: #fff;
-  margin-top: 25vh;
+ 
+}
+.visit a{
+   margin-top: 25vh;
 }
 .wrapper .count-down{
   display: flex;
