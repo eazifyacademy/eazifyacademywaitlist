@@ -161,10 +161,11 @@ form .email-field button:hover{
 .visit{
   border: 1px solid #fff;
   height: 5vh;
-  color: #fff;
-  margin-top: 2vh;
+  
+  margin-top: 5vh;
 }
 a{
+  color: #fff;
   margin-top: 5vh;
 }
 
