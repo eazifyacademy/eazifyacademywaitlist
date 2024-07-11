@@ -157,9 +157,13 @@ form .email-field button{
 form .email-field button:hover{
   background: rgba(14,19,35,255);
 }
+.visit{
+  color: #fff;
+  margin-top: 25vh;
+}
 .wrapper .count-down{
   display: flex;
-  margin-top: 35vh;
+  margin-top: 40vh;
   width: 100%;
   height: 100px;
   flex-wrap: wrap;
@@ -175,7 +179,6 @@ form .email-field button:hover{
   align-items: center;
   justify-content: center;
 }
-
 .count-down .timer .numb{
   font-size: 25px;
   font-weight: 500;
