@@ -207,7 +207,7 @@ a{
 }
 @media (max-width: 630px) {
    body{
-     background-position: 100%;
+     background-position: top;
    }
   .visit{
 /*     border: 1px solid #fff; */
