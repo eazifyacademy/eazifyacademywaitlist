@@ -203,6 +203,15 @@ a{
   font-size: 45px;
 }
 @media (max-width: 630px) {
+  body{
+    height: 100%;
+    background-image: url(close5.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-position: auto;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
   .visit{
 /*     border: 1px solid #fff; */
     height: 5vh;
