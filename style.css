@@ -207,10 +207,6 @@ a{
   font-size: 45px;
 }
 @media (max-width: 630px) {
-   body{
-     background-size: cover;
-     position: relative;
-   }
   .visit{
 /*     border: 1px solid #fff; */
     height: 5vh;
@@ -224,7 +220,7 @@ a{
 /*     margin-top: 5vh; */
     margin-left: 25vw;
     width: 50%;
-    height: 10vh; 
+    height: 15vh; 
 /*     margin: auto;  */
   }
   .wrapper .count-down{
