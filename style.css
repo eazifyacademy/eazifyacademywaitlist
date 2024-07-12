@@ -12,7 +12,7 @@ html, body{
   height: 100%;
   width: 100%;  
   overflow: hidden;
-  background-size: cover;
+/*   background-size: cover; */
 }
 @keyframes fadeInOut {
   0%, 100% {
