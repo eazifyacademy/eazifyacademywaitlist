@@ -12,9 +12,6 @@ html, body{
   height: 100%;
   width: 100%;  
   overflow: hidden;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 @keyframes fadeInOut {
@@ -41,6 +38,9 @@ body{
   background-position: contain;
   background-repeat: no-repeat;
   overflow: hidden;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 body::before{
   content: "";
