@@ -211,9 +211,9 @@ a{
   }
   .logo{
     margin-top: 5vh;
-    margin-left: 55vw;
+    margin-left: 40vw;
     width: 25%;
-    height: 10vh; 
+/*     height: 10vh;  */
     margin: auto; 
   }
   .wrapper .count-down{
