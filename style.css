@@ -38,10 +38,6 @@ body{
   background-position: contain;
   background-repeat: no-repeat;
   overflow: hidden;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  position: relative;
 }
 body::before{
   content: "";
