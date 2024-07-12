@@ -208,6 +208,11 @@ a{
 @media (max-width: 630px) {
   body{
     background-position: center;
+    overflow: hidden;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
   .visit{
 /*     border: 1px solid #fff; */
