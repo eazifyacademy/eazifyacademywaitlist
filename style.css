@@ -41,6 +41,7 @@ body{
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  position: relative;
 }
 body::before{
   content: "";
@@ -208,6 +209,7 @@ a{
 @media (max-width: 630px) {
    body{
      background-position: top;
+     position: relative;
    }
   .visit{
 /*     border: 1px solid #fff; */
