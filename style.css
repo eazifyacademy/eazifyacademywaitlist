@@ -170,7 +170,7 @@ a{
 }
 
 .wrapper .count-down{
-  border: 1px solid #fff;
+/*   border: 1px solid #fff; */
   display: flex;
   margin-top: 4vh;
   width: 100%;
@@ -182,7 +182,7 @@ a{
 .wrapper .count-down .timer{
   height: 100%;
   width: 100px;
-/*   border: 2px solid; */
+  border: 2px solid;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -237,8 +237,12 @@ a{
   .wrapper{
     padding: 0 20px;
   }
+  .wrapper .count-down{
+    margin-bottom: 25rem;
+  }
   .wrapper .count-down .timer{
     border: none;
+    margin-bottom: 25rem;
   }
   .count-down .timer .numb{
     font-size: 28px;
@@ -257,8 +261,10 @@ a{
 @media (max-width: 340px){
   .wrapper .count-down{
     height: 30px;
+    margin-bottom: 25rem;
   }
   .wrapper .count-down .timer{
     width: 30px;
+    margin-bottom: 25rem;
   }
 }
