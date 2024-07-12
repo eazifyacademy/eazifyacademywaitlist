@@ -32,7 +32,7 @@ html, body{
 }
 body{
   height: 100%;
-  background-image: url(close5.jpg);
+  background-image: url(man.jpg);
   background-blend-mode: darken;
   background-size: cover;
   background-position: auto;
@@ -205,7 +205,7 @@ a{
 @media (max-width: 630px) {
   body{
     height: 100%;
-    background-image: url(close5.jpg);
+    background-image: url(close5i.jpg);
     background-blend-mode: darken;
     background-size: cover;
     background-position: auto;
