@@ -35,7 +35,7 @@ body{
   background-image: url(close5.jpg);
   background-blend-mode: darken;
   background-size: cover;
-  background-position: contain;
+  background-position: cover;
   background-repeat: no-repeat;
   overflow: hidden;
 }
