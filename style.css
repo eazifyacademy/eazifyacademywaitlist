@@ -206,6 +206,9 @@ a{
   font-size: 45px;
 }
 @media (max-width: 630px) {
+  body{
+    background-position: center;
+  }
   .visit{
 /*     border: 1px solid #fff; */
     height: 5vh;
